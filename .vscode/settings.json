@@ -1,5 +1,5 @@
 {
-    "code-runner.runInTerminal": false,
+    "code-runner.runInTerminal": true,
     "code-runner.executorMap": {
         "javascript": "node",
         "java": "cd $dir && javac $fileName && java $fileNameWithoutExt",
@@ -102,6 +102,23 @@
         "string": "cpp",
         "fstream": "cpp",
         "cctype": "cpp",
-        "list": "cpp"
+        "list": "cpp",
+        "array": "cpp",
+        "bit": "cpp",
+        "*.tcc": "cpp",
+        "clocale": "cpp",
+        "cstdarg": "cpp",
+        "cwctype": "cpp",
+        "deque": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "algorithm": "cpp",
+        "functional": "cpp",
+        "memory_resource": "cpp",
+        "numeric": "cpp",
+        "optional": "cpp",
+        "random": "cpp",
+        "string_view": "cpp",
+        "sstream": "cpp"
     }
 }
