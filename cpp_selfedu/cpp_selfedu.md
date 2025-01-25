@@ -21,3 +21,9 @@ https://proproprogs.ru/c_base/cpp-pervaya-programma-na-s
 https://www.youtube.com/watch?v=mi1YqRF03IQ&list=PLA0M1Bcd0w8w-mqVmBjt-2J8Z1gVmPZVz&index=65
 
 Объект cin для работы со стандартным потоком stdin и объект cout для вывода информации в стандартный выходной поток stdout.
+
+# 3. Пространства имен (namespace) | Язык С++ для начинающих
+
+https://www.youtube.com/watch?v=mP0inCfi_9w&list=PLA0M1Bcd0w8w-mqVmBjt-2J8Z1gVmPZVz&index=66
+
+Что такое пространства имен (namespace) и зачем они нужны. Объявление собственных пространств и обращение к его элементам. Символ раскрытия области видимости.
