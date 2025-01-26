@@ -27,3 +27,9 @@ https://www.youtube.com/watch?v=mi1YqRF03IQ&list=PLA0M1Bcd0w8w-mqVmBjt-2J8Z1gVmP
 https://www.youtube.com/watch?v=mP0inCfi_9w&list=PLA0M1Bcd0w8w-mqVmBjt-2J8Z1gVmPZVz&index=66
 
 Что такое пространства имен (namespace) и зачем они нужны. Объявление собственных пространств и обращение к его элементам. Символ раскрытия области видимости.
+
+# 4. Оператор using | Язык С++ для начинающих
+
+https://www.youtube.com/watch?v=IJEga9b25gQ&list=PLA0M1Bcd0w8w-mqVmBjt-2J8Z1gVmPZVz&index=67
+
+Импорт объектов и пространств имен с помощью оператора using. Переопределение имен типов с помощью using.
