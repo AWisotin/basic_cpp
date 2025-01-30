@@ -33,3 +33,10 @@ https://www.youtube.com/watch?v=mP0inCfi_9w&list=PLA0M1Bcd0w8w-mqVmBjt-2J8Z1gVmP
 https://www.youtube.com/watch?v=IJEga9b25gQ&list=PLA0M1Bcd0w8w-mqVmBjt-2J8Z1gVmPZVz&index=67
 
 Импорт объектов и пространств имен с помощью оператора using. Переопределение имен типов с помощью using.
+
+# 5. Новые типы данных. Приведение типов указателей | Язык С++ для начинающих
+
+https://www.youtube.com/watch?v=riEH_BMy_QE&list=PLA0M1Bcd0w8w-mqVmBjt-2J8Z1gVmPZVz&index=69
+https://proproprogs.ru/c_base/cpp-novye-tipy-dannyh-privedenie-tipov-ukazateley
+
+Рассматриваются типы данных bool и wchar_t. Приводятся примеры их использования. Особенности приведения указателей разных типов. Рассматривается новая форма оператора for.
