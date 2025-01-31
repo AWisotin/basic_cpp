@@ -40,3 +40,9 @@ https://www.youtube.com/watch?v=riEH_BMy_QE&list=PLA0M1Bcd0w8w-mqVmBjt-2J8Z1gVmP
 https://proproprogs.ru/c_base/cpp-novye-tipy-dannyh-privedenie-tipov-ukazateley
 
 Рассматриваются типы данных bool и wchar_t. Приводятся примеры их использования. Особенности приведения указателей разных типов. Рассматривается новая форма оператора for.
+
+# 6. Инициализация переменных. Ключевые слова auto и decltype | Язык С++ для начинающих
+
+https://www.youtube.com/watch?v=rGNbbnUAX6k&list=PLA0M1Bcd0w8w-mqVmBjt-2J8Z1gVmPZVz&index=69
+
+Способы инициализации переменных в языке С++. Вычисляемые типы через ключевые слова auto и decltype.
